@@ -1,4 +1,5 @@
-# fastercures
+# FasterCures, ConsortiaPedia Website
+http://consortiapedia.fastercures.org/
 
 ## Basic requirements
 
